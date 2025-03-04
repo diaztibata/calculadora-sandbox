@@ -22,6 +22,7 @@ function App() {
 
   return (
     <div className="calculator">
+      <h2>calculadora</h2>
       <div className="display">
         <input type="text" value={input} readOnly />
       </div>
